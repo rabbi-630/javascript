@@ -1,2 +1,2 @@
-# JS
-Tổng hợp các link javascript
+# Javascript
+Vào đây làm gì vậy mấy má?
