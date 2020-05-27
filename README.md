@@ -1,2 +1,2 @@
 # Javascript
-Vào đây làm gì vậy mấy má?
+What are you doing in here?
